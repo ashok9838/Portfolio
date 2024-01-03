@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../../Ashok js"
+		},
+		{
+			"path": "../../Bootstrap"
+		},
+		{
+			"path": "../../C programs"
+		},
+		{
+			"path": "../../CSS Tutorials"
+		},
+		{
+			"path": "../../mangal"
+		},
+		{
+			"path": "../../My all websites"
+		},
+		{
+			"path": "../../Python programs"
+		},
+		{
+			"path": "../../React app"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrap"
+	}
+}
